@@ -1,0 +1,3 @@
+[submodule "hdmi"]
+	path = hdmi
+	url = ../../fcayci/vhdl-hdmi-out
